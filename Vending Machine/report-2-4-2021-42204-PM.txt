@@ -1,0 +1,5 @@
+U-Chews|1.70
+Grain Waves|2.75
+Cola|1.25
+Crunchie|1.75
+Heavy|1.50
